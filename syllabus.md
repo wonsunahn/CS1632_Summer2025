@@ -63,11 +63,11 @@ GradeScope autograder shows you an imperfect score.  The only thing I ask of
 you is that, when you get an imperfect score, write in the Reflections section
 what difficulty you faced that prevented you from getting a perfect score (if
 you do not write the reflection, I can only assume that you did not spend
-enough effort). For the flipped classroom model to work well, you need to be
-active in asking questions when something does not work.  You can ask your
-instructor or your classmates --- since exercises are not graded, you can even
-share and discuss each other's code!  Asking questions is part of the effort
-you are expected to spend.  Here are the 10 exercises:
+enough effort). I strongly encoourage you to actively ask questions when
+something does not work to your instructor or your classmates --- since
+exercises are not graded, you can even share and discuss each other's code!
+Asking questions is part of the effort you are expected to spend.  Here are the
+10 exercises:
 
 * **Exercise 0:** Java assessment exercise
 * **Exercises 1-5:** Exercises that prepare you for the corresponding deliverable
