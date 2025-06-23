@@ -2,14 +2,12 @@
   * [Course Information](#course-information)
   * [Grading](#grading)
   * [Group Work](#group-work)
-  * [Excercise Details](#excercise-details)
-  * [Deliverable Details](#deliverable-details)
   * [Assignment submission](#assignment-submission)
   * [Programming Language Selection](#programming-language-selection)
   * [Participating in Class](#participating-in-class)
+  * [In-Person Attendance](#in-person-attendance)
   * [Disability Services Statement](#disability-services-statement)
   * [Academic Integrity Statement](#academic-integrity-statement)
-  * [Back to In-Person](#back-to-in-person)
 
 # CS 1632
 Software Quality Assurance - Summer 2025
