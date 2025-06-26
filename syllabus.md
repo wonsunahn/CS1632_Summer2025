@@ -18,13 +18,12 @@ Software Quality Assurance - Summer 2025
   * GitHub username: wonsunahn
 
 **Class Time and Location:**
-
   * Tue/Thu 8:30 AM - 11:45 AM @ 5129 Sennott Square
 
 **Instructor's Office Hours:**
-
+  * Video Call on Microsoft Teams: Mon/Wed 9:00 - 11:00 AM
+    (Message me on Teams to start the call!) 
   * Chat on Microsoft Teams: Mon-Fri 9:00 AM - 6:00 PM
-  * Physical Office Hours: Tue/Thu 12:00 - 1:30 PM @ 5423 Sennott Square or by appointment
 
 **Class GitHub repo:** https://www.github.com/wonsunahn/CS1632_Summer2025
 
