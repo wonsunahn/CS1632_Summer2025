@@ -172,9 +172,9 @@ collaborate on these write-ups, it may be easier to use cloud shared docs (such
 as over OneDrive or Goodle Drive).
 
 All exercises are expected to be submitted on time, for the purposes of timely feedback.
-Late deliverables will receive a -5 percentage point penalty per day (e.g., if
+Late deliverables will receive a -10 percentage point penalty per day (e.g., if
 you would have received a 90% on a deliverable, but you turned it in 3 days
-late, you would receive 90 - 15 = 75%.).  
+late, you would receive 90 - 30 = 60%.).  
 
 ## Programming Language Selection
 
