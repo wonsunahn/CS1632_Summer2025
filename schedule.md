@@ -26,15 +26,15 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
     * [Exercise 1: Test Plans](exercises/1)
   * Assignment releases
     * [Deliverable 1](deliverables/1)
-    * Listen to Test-driven Development Lecture (READING: AFIST, Chapter 15)
+    
 
 * Class 2
   * Assignments due before class
-    * Listen to Test-driven Development Lecture (READING: AFIST, Chapter 15)
     * Partnership Contract on GradeScope
   * Lectures
     * Unit Testing Part 1 Lecture (READING: AFIST, Chapter 13)
     * Unit Testing Part 2 Lecture (READING: AFIST, Chapter 14)
+    * Test-driven Development Lecture (READING: AFIST, Chapter 15)
   * In-class exercises
     * [Exercise 2: Unit Testing](exercises/2)
   * Assignment releases
@@ -43,14 +43,14 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 ## WEEK 3 (Week of 8 JUL)
 
 * Class 1
-  * Assignments due before class
-    * Deliverable 1
   * Lectures
     * Behavior Driven Development Lecture
   * In-class exercises
     * [Supplementary Exercise 1: Behavior Driven Development](exercises/Supplement1)
 
 * Class 2
+  * Assignments due before class
+    * Deliverable 1
   * Lectures
     * Automated System Testing Lecture
   * In-class exercises
