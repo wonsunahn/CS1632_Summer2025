@@ -138,7 +138,7 @@ VSCode IDE.
 
 ## Running the Program
 
-Please refer to the [Deliverable 1 README](../deliverables/1#rent-a-cat-system)
+Please refer to the [Deliverable 1 README](https://github.com/wonsunahn/CS1632_Summer2025/blob/main/deliverables/1/README.md#rent-a-cat-system)
 for details on how to operate the Rent-A-Cat system.
 
 ### Using VSCode
