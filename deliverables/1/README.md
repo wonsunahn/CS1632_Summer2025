@@ -11,7 +11,7 @@
 # CS 1632 - Software Testing
 Summer Semester 2025
 
-* DUE: July 8 (Tuesday), 2025 before start of class
+* DUE: July 10 (Thursday), 2025 before start of class
 
 **GitHub Classroom Link:** https://classroom.github.com/a/yDEjfwli
 
