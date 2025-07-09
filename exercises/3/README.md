@@ -37,44 +37,41 @@ https://www.pitt.edu/
 
 ## Prerequisites
 
-1. Please install the [Chrome web browser](https://www.google.com/chrome/)
-   or the [Firefox web browser](https://www.mozilla.org/en-US/firefox/new/).
+1. Please install the [Firefox web browser](https://www.mozilla.org/en-US/firefox/new/).
 
-1. Please install the web driver for the browser of your choice.  The
-   Selenium people just recently announced a new tool called Selenium
-Manager that can automatically download and install a web driver that
-matches your current browser.  You can invoke Selenium Manager as
-follows, assuming you are using Chrome.  If you want to use Firefox, you can
-just replace "chrome" with "firefox" in the instructions.
+1. Please install the web driver for the Firefox browser.  The Selenium people
+just recently announced a new tool called Selenium Manager that can
+automatically download and install a web driver that matches your current
+browser.  You can invoke Selenium Manager as follows:
 
    On Windows:
    
    ```
-   selenium-manager\windows\selenium-manager.exe --browser chrome
+   selenium-manager\windows\selenium-manager.exe --browser firefox
    ```
 
    On MacOS:
 
    ```
-   selenium-manager/macos/selenium-manager --browser chrome
+   selenium-manager/macos/selenium-manager --browser firefox
    ```
 
    On Linux:
 
    ```
-   selenium-manager/linux/selenium-manager --browser chrome
+   selenium-manager/linux/selenium-manager --browser firefox
    ```
 
    On running this tool, you should see something similar to the below:
 
    ```
-   > selenium-manager\windows\selenium-manager.exe --browser chrome
-   INFO    Driver path: C:\Users\mrabb\.cache\selenium\chromedriver\win64\116.0.5845.96\chromedriver.exe
-   INFO    Browser path: C:\Program Files\Google\Chrome\Application\chrome.exe
+   > selenium-manager\windows\selenium-manager.exe --browser firefox
+   INFO    Driver path: C:\Users\mrabb\.cache\selenium\geckodriver\win64\0.36.0\geckodriver.exe
+   INFO    Browser path: C:\Program Files\Mozilla Firefox\firefox.exe
    ```
 
-1. Please adding the Selenium IDE browser extension for your web browser by
-   selecting "Chrome Download" or "Firefox Download" on the below website:
+1. Please adding the Selenium IDE browser extension for the Firefox web browser by
+   selecting "Firefox Download" on the below website:
 
    https://www.selenium.dev/selenium-ide/
 
@@ -490,7 +487,7 @@ The GradeScope autograder simply runs your 6 tests against www.pitt.edu and
 deducts 5 points per test failure.
 
 You may be curious how I was able to run the tests on the GradeScope cloud
-runners when they most likely don't have displays to render the Chrome browser.
+runners when they most likely don't have displays to render the web browser.
 The Chrome web driver, as well as other web drivers, can be run in "headless"
 mode.  That is, the tests can be performed inside the web engine without having
 to actually display the page.  This is common practice since in a work setting,
@@ -515,7 +512,6 @@ public void setUp() {
     options.addArguments("--disable-dev-shm-usage");	// Disable /dev/shm which is limited to 64MB in Docker and use /tmp/ instead to store shared memory files
     options.addArguments("--no-sandbox");		// A quick and dirty way to run Selenium as root, bypassing the OS security model
     driver = new ChromeDriver(options);
-    driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
     driver.manage().window().setSize(new Dimension(1200, 800));
     js = (JavascriptExecutor) driver;
     vars = new HashMap<String, Object>();
