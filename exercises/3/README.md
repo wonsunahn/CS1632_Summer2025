@@ -25,7 +25,7 @@
 
 * DUE: July 15 (Thursday), 2025 before start of class
 
-**GitHub Classroom Link:** TBD
+**GitHub Classroom Link:** https://classroom.github.com/a/7Z7FJhH-
 
 ## Description
 
