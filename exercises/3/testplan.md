@@ -27,12 +27,12 @@ POSTCONDITIONS:
 
 ```
 IDENTIFIER: TEST-3-LOGO-IMAGE
-TEST CASE: Check that the "University of Pittsburgh" logo uses image "/themes/custom/pitt_default/logo.svg".
+TEST CASE: Check that the "University of Pittsburgh" logo uses image "/sites/default/files/assets/pitt_shield_white-home.png"
 PRECONDITIONS: None.
 EXECUTION STEPS:
 1. Open the URL https://www.pitt.edu/ on the web browser.
 POSTCONDITIONS: 
-* The "University of Pittsburgh" logo img has an src attribute with value "/themes/custom/pitt_default/logo.svg".
+* The "University of Pittsburgh" logo img has an src attribute with value "/sites/default/files/assets/pitt_shield_white-home.png".
   (Use "store attribute" command followed by "assert" command.)
 ```
 

@@ -412,15 +412,15 @@ TEST-4-SCHOOLS-SCI: A race condition may cause you to get an empty string on
 the 3rd element in the school list when comparing with "Computing &
 Information".  In that case, you will need to insert an explicit wait using the
 **wait for element visible** command on Selenium IDE to wait for the "Colleges
-& Schools" list header to appear, right before performing that assertion, to
+& Schools" list block to appear, right before performing that assertion, to
 make sure that the list has correctly rendered.  When exported to JUnit code,
 the Selenium IDE command will get translated to the following snippet of code:
 
 ```
-    // 4 | waitForElementVisible | id=block-collegesschools-menu | 30000
+    // 4 | waitForElementVisible | id=block-pitt-25-edu-collegesschools-2 | 30000
     {
       WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
-      wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("block-collegesschools-menu")));
+      wait.until(ExpectedConditions.visibilityOfElementLocated(By.id("block-pitt-25-edu-collegesschools-2")));
     }
 ```
 
@@ -441,10 +441,10 @@ it is ready for editing before clicking on it.  This translates to the below
 JUnit code:
 
 ```
-    // 4 | waitForElementEditable | id=gsc-i-id1 | 30000
+    // 4 | waitForElementEditable | id=edit-keys | 30000
     {
       WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
-      wait.until(ExpectedConditions.elementToBeClickable(By.id("gsc-i-id1")));
+      wait.until(ExpectedConditions.elementToBeClickable(By.id("edit-keys")));
     }
 ```
 
