@@ -100,19 +100,6 @@ browse the following page:
 
 https://www.w3schools.com/js/js_cookies.asp
 
-You can test your JavaScript code directly on the web browser by entering the
-code in the address bar at the top.  Try entering the following string in the
-address bar while on the Rent-A-Cat page to set all cats to rented.
-
-```
-javascript:{document.cookie = "1=true";document.cookie = "2=true";document.cookie = "3=true";void(0)}
-```
-
-Then refresh the page and see all the cats disappear!  You may notice the extra
-"void(0)" string in the end.  It is added to have the JavaScript code return an
-undefined value --- otherwise, the web browser will display the value returned
-on a new page, which is not what we want.
-
 ### Mind your locator strings
 
 Just like we learned in Exercise 3, please use locator strings appropriate to
