@@ -68,7 +68,7 @@ EXECUTION STEPS:
 1. Open the URL https://www.pitt.edu/ on the web browser.
 2. Click on the search icon.
 3. Type "computer science club" in the search box that pops up.
-4. Type [Enter] in the search box.
+4. Click on the "SEARCH" button.
 POSTCONDITIONS: 
 * Somewhere in the search results is the item:
   "Student Organization Spotlight: Computer Science Club (CSC)".
