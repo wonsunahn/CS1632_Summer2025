@@ -53,17 +53,16 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
     * Deliverable 1
   * Lectures
     * Automated System Testing Lecture
+    * Writing Testable Code Lecture (READING: AFIST, Chapter 16)
   * In-class exercises
     * [Exercise 3: Automated System Testing](exercises/3)
   * Assignment releases
     * [Deliverable 3](deliverables/3)
-    * Listen to Writing Testable Code Lecture (READING: AFIST, Chapter 16)
 
 ## WEEK 4 (Week of 15 JUL)
 
 * Class 1
   * Assignments due before class
-    * Listen to Writing Testable Code Lecture (READING: AFIST, Chapter 16)
     * Deliverable 2
   * Lectures
     * Performance Testing Lecture (READING: AFIST, Chapter 19)
