@@ -90,37 +90,33 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
     * Deliverable 3
   * Lectures
     * Software QA and Nondeterminism Lecture
+    * Static Analysis Part 1 Lecture
   * In-class exercises
     * [Supplementary Exercise 3: Testing Nondeterministic Software](exercises/Supplement3)
 
 * Class 2: 
   * Lectures
-    * Static Analysis Part 1 Lecture
     * Static Analysis Part 2 Lecture
+    * Static Analysis Part 3 Lecture
   * In-class exercises
     * [Exercise 5: Static Analysis](exercises/5)
   * Assignment releases
     * [Deliverable 5](deliverables/5)
-    * Listen to Static Analysis Part 3 Lecture
-    * Listen to Pairwise and Combinatorial Testing Lecture (READING: AFIST, Chapter 17)
 
 ## WEEK 6 (Week of 29 JUL)
 
 * Class 1
   * Assignments due before class
-    * Listen to Static Analysis Part 3 Lecture
-    * Listen to Pairwise and Combinatorial Testing Lecture (READING: AFIST, Chapter 17)
     * Deliverable 4
   * Lectures
+    * Pairwise and Combinatorial Testing Lecture (READING: AFIST, Chapter 17)
     * Smoke and Exploratory Testing Lecture (READING: AFIST, Chapters 10-11)
   * In-class exercises
     * [Supplementary Exercise 4: CI Pipelines](exercises/Supplement4)
-  * Assignment releases
-    * Listen to Security Testing Lecture (READING: AFIST, Chapter 20)
 
 * Class 2
-  * Assignments due before class
-    * Listen to Security Testing Lecture (READING: AFIST, Chapter 20)
+  * Lectures
+    * Security Testing Lecture (READING: AFIST, Chapter 20)
   * In-class exercises
     * [Supplementary Exercise 4: Dockers](exercises/Supplement4)
 
