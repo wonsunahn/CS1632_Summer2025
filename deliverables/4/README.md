@@ -19,7 +19,7 @@ Summer Semester 2025
 
 * DUE: July 29 (Tuesday), 2025 before start of class
 
-**GitHub Classroom Link:** https://classroom.github.com/a/F46VEKEd
+**GitHub Classroom Link:** https://classroom.github.com/a/U-t1o-VA
 
 ## Description
 
