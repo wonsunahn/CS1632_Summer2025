@@ -131,4 +131,4 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
   * You will choose a 2 hour span to complete exam within the above period.
   * Open book but individual work (no generative AI).
 
-* Deliverable 5 due August 6 (Thursday) 8:30 AM
+* Deliverable 5 due August 7 (Thursday) 8:30 AM
