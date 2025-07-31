@@ -97,7 +97,6 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 * Class 2: 
   * Lectures
     * Static Analysis Part 2 Lecture
-    * Static Analysis Part 3 Lecture
   * In-class exercises
     * [Exercise 5: Static Analysis](exercises/5)
   * Assignment releases
@@ -109,6 +108,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
   * Assignments due before class
     * Deliverable 4
   * Lectures
+    * Static Analysis Part 3 Lecture
     * Smoke and Exploratory Testing Lecture (READING: AFIST, Chapters 10-11)
   * In-class exercises
     * [Supplementary Exercise 4: CI Pipelines](exercises/Supplement4)
@@ -116,16 +116,19 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 * Class 2
   * Lectures
     * Pairwise and Combinatorial Testing Lecture (READING: AFIST, Chapter 17)
-    * Security Testing Lecture (READING: AFIST, Chapter 20)
   * In-class exercises
     * [Supplementary Exercise 4: Dockers](exercises/Supplement4)
 
-* Midterm 2 on GradeScope: August 1 (Friday) 9:00 AM - August 2 (Saturday) 11:59 PM
-  * Check out the **[study guide](/study_guides/midterm_2_study_guide.md)**!
-  * Will be posted as link named "Midterm 2" at Friday 9:00 AM.
-  * You will choose a 2 hour span to complete exam within the above 2-day period.
-  * Open book but individual work (no generative AI).
-
 ## WEEK 7 (Week of 5 AUG)
+
+* Class 1
+  * Security Testing Lecture (READING: AFIST, Chapter 20)
+  * Midterm 2 Review
+    
+* Midterm 2 on GradeScope: August 5 (Tuesday) 12:00 PM - August 6 (Wednesday) 8:30 AM
+  * Check out the **[study guide](/study_guides/midterm_2_study_guide.md)**!
+  * Will be posted as link named "Midterm 2" at Tuesday noon.
+  * You will choose a 2 hour span to complete exam within the above period.
+  * Open book but individual work (no generative AI).
 
 * Deliverable 5 due August 6 (Wednesday) 8:30 AM
