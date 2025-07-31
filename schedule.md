@@ -125,10 +125,10 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
   * Security Testing Lecture (READING: AFIST, Chapter 20)
   * Midterm 2 Review
     
-* Midterm 2 on GradeScope: August 5 (Tuesday) 12:00 PM - August 6 (Wednesday) 8:30 AM
+* Midterm 2 on GradeScope: August 5 (Tuesday) 12:00 PM - August 6 (Wednesday) 11:59 PM
   * Check out the **[study guide](/study_guides/midterm_2_study_guide.md)**!
   * Will be posted as link named "Midterm 2" at Tuesday noon.
   * You will choose a 2 hour span to complete exam within the above period.
   * Open book but individual work (no generative AI).
 
-* Deliverable 5 due August 6 (Wednesday) 8:30 AM
+* Deliverable 5 due August 6 (Thursday) 8:30 AM
