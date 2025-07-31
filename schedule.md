@@ -109,13 +109,13 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
   * Assignments due before class
     * Deliverable 4
   * Lectures
-    * Pairwise and Combinatorial Testing Lecture (READING: AFIST, Chapter 17)
     * Smoke and Exploratory Testing Lecture (READING: AFIST, Chapters 10-11)
   * In-class exercises
     * [Supplementary Exercise 4: CI Pipelines](exercises/Supplement4)
 
 * Class 2
   * Lectures
+    * Pairwise and Combinatorial Testing Lecture (READING: AFIST, Chapter 17)
     * Security Testing Lecture (READING: AFIST, Chapter 20)
   * In-class exercises
     * [Supplementary Exercise 4: Dockers](exercises/Supplement4)
