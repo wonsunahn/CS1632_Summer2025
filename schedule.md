@@ -123,7 +123,7 @@ AFIST = [_A Friendly Introduction to Software Testing_](software-quality-assuran
 * Midterm 2 on GradeScope: August 1 (Friday) 9:00 AM - August 2 (Saturday) 11:59 PM
   * Check out the **[study guide](/study_guides/midterm_2_study_guide.md)**!
   * Will be posted as link named "Midterm 2" at Friday 9:00 AM.
-  * You will choose a 2 hour span to complete exam within the above 3-day period.
+  * You will choose a 2 hour span to complete exam within the above 2-day period.
   * Open book but individual work (no generative AI).
 
 ## WEEK 7 (Week of 5 AUG)
